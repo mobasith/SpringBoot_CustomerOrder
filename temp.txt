@@ -1,0 +1,68 @@
+TASK:
+
+create spring boot app with validation and use the mongodb for the sales team.(enterprise resource planning).
+
+jpa streamer
+reactive with mongoDB
+**********************************************************
+CAPSTONE PROJECT TO-DO:
+
+db
+wireframework(figma diagram)
+api design
+
+**************************************************************
+NODEJS TASK:
+create a nodejs application , online job portal , where the users can apply for a particular job and admnin can post a job . get how many applications are filled .
+
+node services:
+1.posting job
+2.user apply job
+(connect both services)
+*********************************************************************
+TASK:
+
+create a weather app 
+******************************************************************
+TASK:
+
+create a springboot application using lambda function.
+
+******************************************************
+TASK:
+create a nest js restaurant application with menu of dishes including typeorm
+
+**************************************************
+1ST MODULE ASSESMENT QSNS:
+
+nodejs
+java spring
+typescript
+**********
+DOUBTS:
+1. node with microservices (express js or nest js)?
+2. the level of security of applications
+3. topics to be covered 
+4. capstone project should be nodejs or java 
+******************************************
+NODEJS MICROSERVICES:
+
+develop microservices app of flight reservations system 
+airline info->flight info->passenger info
+
+***********************************
+TYPESCRIPT PRACTICE:
+
+create an employee object with fields eid , name, password, email and keep the eid as unique and try to access all the datatypes wherever required.
+
+create a theatre application the user can choose the seats selections based on his interests. assign the no. of seats then the users select . if seats are filled send alert the seats are filled .Also include the seat cancellation.
+
+create an employee object find out the employees by the dept and their total salaries.
+
+design a typescript application for library management system. It needs to represent entities like books , authors and library members.
+
+create a function and develop a calculator application using typescript. 
+	
+develop a typescript app to calculate insurance premium based on the various factors.
+
+develop a hotel reservation system that should include manage all hotel rooms , allows user to check the availaibility of hotel rooms , book a room for a night or how much the user wants , calculate the price of the total stay
