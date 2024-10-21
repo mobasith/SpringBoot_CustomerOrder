@@ -66,3 +66,13 @@ create a function and develop a calculator application using typescript.
 develop a typescript app to calculate insurance premium based on the various factors.
 
 develop a hotel reservation system that should include manage all hotel rooms , allows user to check the availaibility of hotel rooms , book a room for a night or how much the user wants , calculate the price of the total stay
+
+*******************
+create a balance sheet for ledger account- react application  
+
+1. you need to manage that is wat is credited and wat is debited 
+2. end of the day display the remaining balance 
+3. get the transaction history 
+4. for the day give total credited and total debited 
+5.option for the user for crediting or debiting 
+(use states , props , controlled and uncontrolled components)
